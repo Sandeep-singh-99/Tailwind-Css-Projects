@@ -673,6 +673,10 @@ video {
   max-width: 42rem;
 }
 
+.max-w-sm {
+  max-width: 24rem;
+}
+
 .shrink-0 {
   flex-shrink: 0;
 }
@@ -934,6 +938,11 @@ video {
 .py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+}
+
+.px-5 {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
 }
 
 .pr-5 {
